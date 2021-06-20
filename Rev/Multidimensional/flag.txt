@@ -1,0 +1,14 @@
+All the functions namely line plane space and time can be reversed.
+
+line space and time can be reversed easily by changing the positive and negative signs.
+
+plane function first rotates the matrix once and then perform some computation which can also be reversed by reversing the signs.
+first reverse the signs and get the computation undone and then to reverse the rotation either reverse the rotation or rotate the matrix 3 more times.
+
+also while constructing the string array, class multidimensional uses coloumn major order and checks in row major order.
+remember to reverse that order too.
+
+refer to Main.java for reversed functions.
+
+
+flag = flag{th3_g4t3w4y_b3t233n_d1m3n510n5}

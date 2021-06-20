@@ -1,0 +1,6 @@
+decompile the given pyc to py with uncompyle6.
+
+just brute force your way into calculating the byte at each position.
+flag.py shows how to do it.
+
+flag: flag{s3qu3nc35_4nd_5um5}

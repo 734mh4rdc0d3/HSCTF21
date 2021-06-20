@@ -1,0 +1,9 @@
+the sequence is similar to fibonacci sequence but instead of being 0 1 1 2 3..... it is 0 1 2 3 5 8.....
+
+for n number of of squares in a hopscotch board, the user will
+a) consider all n-1 scotch boards and add one square at the end.
+b) consider all n-2 scotch baords and add two simultaneous squares at the end of all the boards.
+
+sum of both will give you possible number of boards.
+
+flag = flag{wh4t_d0_y0U_w4nt_th3_fla5_t0_b3?_'wHaTeVeR_yOu_wAnT'}

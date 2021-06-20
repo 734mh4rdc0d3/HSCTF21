@@ -1,0 +1,5 @@
+question similar to pallets of gold.
+
+observe the bit planes after uploading the image to aperisolve.fr
+
+flag: flag{this_is_why_i_use_premultiplied_alpha}

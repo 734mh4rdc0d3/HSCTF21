@@ -1,0 +1,3 @@
+presolve the arrays of the required sequences and suppy the answer fast.
+
+flag: flag{nacco_ordinary_fib}

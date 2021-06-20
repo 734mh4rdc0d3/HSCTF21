@@ -1,0 +1,11 @@
+hot cold warm cool are the functions that are applied on a String "match".
+
+we have to reverse all the functions and apply on "match" string in reverse order to find the possible values of flag.
+
+since all the functions are easy to reverse in nature. One function that has some particular characteristic is warm function.
+
+it shuffles the input string in a manner. When we try to reverse the function, one single answer could not be found because length of c variable is unknown. iterating for all the possible value of c, we can find the flag.
+
+please refer to Main.java for rev functions.
+
+flag: flag{1ncr34s3_1n_3nth4lpy_0f_5y5}

@@ -1,0 +1,9 @@
+There are two types of random number generators discussed in the given question.
+One is Random class which accepts seed and other is math.random which is also a pseudorandom number generator which does accepts seed.
+
+A sample is provided to make you life easier.
+replace the math.randon with Randon class generator and vary the seed from 1 to 999 (as said by the comment in the main function).
+
+print all the flags and find yours.
+
+flag: flag{s33d3d_r4nd0m1z3rs_4r3_c00l}

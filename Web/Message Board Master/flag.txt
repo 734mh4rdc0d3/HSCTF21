@@ -1,0 +1,5 @@
+just login with the given agent and poison the cookies with username = admin and bruteforce the admin user id. since it is only three digits, finding the correct id may not take time.
+
+refer to flag.py for the python requests code. it can also be done using burp repeater.
+
+flag: flag{y4m_y4m_c00ki35}

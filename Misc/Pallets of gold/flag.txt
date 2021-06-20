@@ -1,0 +1,4 @@
+observe the bit planes after uploading the image to aperisove.fr
+
+
+flag: flag{plte_chunks_remind_me_of_gifs}
